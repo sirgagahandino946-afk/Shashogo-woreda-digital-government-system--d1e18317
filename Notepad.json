@@ -1,0 +1,32 @@
+{
+  "type": "NOTES",
+  "color": "SECOND",
+  "title": "Bash",
+  "pinned": false,
+  "saveTime": 1787000400000,
+  "labels": [],
+  "createDate": 1787000400000,
+  "recording": "[]",
+  "isNoteChecked": false,
+  "noteTextSize": "DEFAULT",
+  "body": "curl http:\/\/localhost\/api\/system-info",
+  "typeFace": 2131296367,
+  "spans": [
+    {
+      "startStyle": 36,
+      "endStyle": 37,
+      "isBold": false,
+      "isLink": false,
+      "isItalic": false,
+      "isMonospace": false,
+      "isStrike": false,
+      "isUnderline": false,
+      "isTextColor": true,
+      "textColorCode": -16777216,
+      "isBgColor": false,
+      "bgColorCode": 0,
+      "isTextSize": false,
+      "textSize": 0
+    }
+  ]
+}
